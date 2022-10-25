@@ -1,0 +1,50 @@
+index,State,Count,State_Name,Region
+3,CA,795868,California,West
+8,FL,401388,Florida,South
+41,TX,149037,Texas,Southwest
+35,OR,126341,Oregon,West
+43,VA,113535,Virginia,South
+32,NY,108049,New York,Northeast
+36,PA,99975,Pennsylvania,Northeast
+21,MN,97185,Minnesota,Midwest
+25,NC,91362,North Carolina,South
+38,SC,89216,South Carolina,South
+18,MD,65085,Maryland,South
+2,AZ,56504,Arizona,Southwest
+29,NJ,52902,New Jersey,Northeast
+40,TN,52613,Tennessee,South
+42,UT,49193,Utah,West
+16,LA,47232,Louisiana,South
+12,IL,47105,Illinois,Midwest
+20,MI,43843,Michigan,Midwest
+9,GA,40086,Georgia,South
+45,WA,32554,Washington,West
+5,CT,29762,Connecticut,Northeast
+22,MO,29633,Missouri,Midwest
+4,CO,25340,Colorado,West
+33,OH,24409,Ohio,Midwest
+13,IN,20850,Indiana,Midwest
+0,AL,19322,Alabama,South
+24,MT,15964,Montana,West
+1,AR,10935,Arkansas,South
+10,IA,9607,Iowa,Midwest
+6,DC,9133,District of Columbia,South
+14,KS,9033,Kansas,Midwest
+34,OK,8806,Oklahoma,Southwest
+11,ID,8544,Idaho,West
+46,WI,7896,Wisconsin,Midwest
+47,WV,7632,West Virginia,South
+15,KY,6638,Kentucky,South
+17,MA,6392,Massachusetts,Northeast
+31,NV,6197,Nevada,West
+23,MS,5320,Mississippi,South
+7,DE,4842,Delaware,South
+37,RI,4451,Rhode Island,Northeast
+28,NH,3866,New Hampshire,Northeast
+27,NE,3320,Nebraska,Midwest
+30,NM,2370,New Mexico,Southwest
+26,ND,2258,North Dakota,Midwest
+19,ME,2193,Maine,Northeast
+48,WY,990,Wyoming,West
+44,VT,365,Vermont,Northeast
+39,SD,201,South Dakota,Midwest

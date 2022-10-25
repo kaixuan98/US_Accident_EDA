@@ -1,0 +1,21 @@
+.bottomTicks, .valueCounts{
+    fill: black;
+    font-family: 'Poppins';
+    font-weight: 500;
+}
+
+.yTicks{
+    fill: #5b607c;
+    font-family: 'Poppins';
+    font-weight: 600;
+}
+
+.gridLines{
+    stroke: #5b607c;
+    stroke-width: 0.5;
+}
+
+.xTicks{
+    font-family: 'Poppins';
+    font-weight: 600;
+}

@@ -1,0 +1,23 @@
+.descb{
+    position: fixed;
+    top: 20%; 
+    left: 10%;
+    width: 40vw; 
+    height: 25vh;
+    border-radius: 10px;
+    background: rgba($color: whitesmoke, $alpha: 0.6);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+
+    p{
+        font-family: 'Poppins';
+        text-align: left;
+    }
+
+    a{
+        text-decoration: underline;
+        text-align: left;
+    }
+}

@@ -1,0 +1,28 @@
+.tab-content{
+    background-color:  #d8d9db ; 
+    opacity: 0.5;
+    border: 1px #d8d9db solid;
+    border-radius: 5px;
+    margin-right: 4px;
+
+    &:hover{
+        background-color:black; 
+        opacity: 1;
+        border: 1px black solid;
+    }
+}
+
+.active-tab{
+    background-color:black; 
+    opacity: 1;
+    border: 1px black solid;
+    border-radius: 5px;
+    margin-right: 4px;
+    color: whitesmoke;
+
+}
+
+a{
+    text-decoration: none;
+}
+

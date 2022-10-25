@@ -1,0 +1,30 @@
+.monthTicks{
+    font-family: 'Poppins';
+    font-weight: 600;
+}
+
+.mark{
+    font-family: 'Poppins';
+    font-weight: 500;
+}
+
+
+.descb{
+    position: fixed;
+    width: 25vw; 
+    height: 20vh;
+    border-radius: 10px;
+    background: rgba($color: whitesmoke, $alpha: 0.6);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+
+    p{
+        font-family: 'Poppins';
+        text-align: justify;
+        font-size: 16px;
+        
+        
+    }
+}

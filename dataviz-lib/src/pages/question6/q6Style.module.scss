@@ -1,0 +1,33 @@
+
+.line{
+    stroke: rgb(110, 108, 108);
+    stroke-width: 1;
+}
+
+.tickLabel{
+    text-anchor: center;
+}
+
+.tick{
+    font-family: 'Poppins';
+    font-weight: 500;
+}
+
+
+.descb{
+    position: fixed;
+    top: 40%; 
+    left: 60%;
+    width: 20vw; 
+    height: 25vh;
+    border-radius: 10px;
+    background: rgba($color: whitesmoke, $alpha: 0.6);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+
+    p{
+        font-family: 'Poppins';
+    }
+}

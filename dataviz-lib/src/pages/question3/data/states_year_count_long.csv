@@ -1,0 +1,294 @@
+,State,Year,Year_Count,State_Name
+0,AL,2016,133,Alabama
+1,AL,2017,600,Alabama
+2,AL,2018,935,Alabama
+3,AL,2019,1036,Alabama
+4,AL,2020,5016,Alabama
+5,AL,2021,11602,Alabama
+6,AR,2016,26,Arkansas
+7,AR,2017,62,Arkansas
+8,AR,2018,388,Arkansas
+9,AR,2019,839,Arkansas
+10,AR,2020,2262,Arkansas
+11,AR,2021,7358,Arkansas
+12,AZ,2016,2715,Arizona
+13,AZ,2017,3585,Arizona
+14,AZ,2018,3539,Arizona
+15,AZ,2019,2664,Arizona
+16,AZ,2020,13948,Arizona
+17,AZ,2021,30053,Arizona
+18,CA,2016,33592,California
+19,CA,2017,35230,California
+20,CA,2018,34536,California
+21,CA,2019,107841,California
+22,CA,2020,195831,California
+23,CA,2021,388838,California
+24,CO,2016,1286,Colorado
+25,CO,2017,2147,Colorado
+26,CO,2018,3492,Colorado
+27,CO,2019,5994,Colorado
+28,CO,2020,5531,Colorado
+29,CO,2021,6890,Colorado
+30,CT,2016,1998,Connecticut
+31,CT,2017,2388,Connecticut
+32,CT,2018,1967,Connecticut
+33,CT,2019,1576,Connecticut
+34,CT,2020,5555,Connecticut
+35,CT,2021,16278,Connecticut
+36,DC,2016,144,District of Columbia
+37,DC,2017,293,District of Columbia
+38,DC,2018,453,District of Columbia
+39,DC,2019,356,District of Columbia
+40,DC,2020,2015,District of Columbia
+41,DC,2021,5872,District of Columbia
+42,DE,2016,204,Delaware
+43,DE,2017,344,Delaware
+44,DE,2018,363,Delaware
+45,DE,2019,232,Delaware
+46,DE,2020,900,Delaware
+47,DE,2021,2799,Delaware
+48,FL,2016,8783,Florida
+49,FL,2017,14619,Florida
+50,FL,2018,13064,Florida
+51,FL,2019,9855,Florida
+52,FL,2020,76672,Florida
+53,FL,2021,278395,Florida
+54,GA,2016,2872,Georgia
+55,GA,2017,5154,Georgia
+56,GA,2018,6095,Georgia
+57,GA,2019,5199,Georgia
+58,GA,2020,8761,Georgia
+59,GA,2021,12005,Georgia
+60,IA,2016,735,Iowa
+61,IA,2017,998,Iowa
+62,IA,2018,199,Iowa
+63,IA,2019,507,Iowa
+64,IA,2020,1722,Iowa
+65,IA,2021,5446,Iowa
+66,ID,2016,418,Idaho
+67,ID,2017,312,Idaho
+68,ID,2018,348,Idaho
+69,ID,2019,522,Idaho
+70,ID,2020,1783,Idaho
+71,ID,2021,5161,Idaho
+72,IL,2016,6677,Illinois
+73,IL,2017,9727,Illinois
+74,IL,2018,7043,Illinois
+75,IL,2019,6328,Illinois
+76,IL,2020,9083,Illinois
+77,IL,2021,8247,Illinois
+78,IN,2016,1553,Indiana
+79,IN,2017,1998,Indiana
+80,IN,2018,1795,Indiana
+81,IN,2019,1771,Indiana
+82,IN,2020,3617,Indiana
+83,IN,2021,10116,Indiana
+84,KS,2016,760,Kansas
+85,KS,2017,1181,Kansas
+86,KS,2018,954,Kansas
+87,KS,2019,520,Kansas
+88,KS,2020,1259,Kansas
+89,KS,2021,4359,Kansas
+90,KY,2016,1044,Kentucky
+91,KY,2017,866,Kentucky
+92,KY,2018,1055,Kentucky
+93,KY,2019,579,Kentucky
+94,KY,2020,1898,Kentucky
+95,KY,2021,1196,Kentucky
+96,LA,2016,798,Louisiana
+97,LA,2017,561,Louisiana
+98,LA,2018,1252,Louisiana
+99,LA,2019,806,Louisiana
+100,LA,2020,11625,Louisiana
+101,LA,2021,32190,Louisiana
+102,MA,2016,820,Massachusetts
+103,MA,2017,875,Massachusetts
+104,MA,2018,827,Massachusetts
+105,MA,2019,691,Massachusetts
+106,MA,2020,2363,Massachusetts
+107,MA,2021,816,Massachusetts
+108,MD,2016,1988,Maryland
+109,MD,2017,4405,Maryland
+110,MD,2018,3636,Maryland
+111,MD,2019,3529,Maryland
+112,MD,2020,15836,Maryland
+113,MD,2021,35691,Maryland
+114,ME,2016,132,Maine
+115,ME,2017,579,Maine
+116,ME,2018,677,Maine
+117,ME,2019,613,Maine
+118,ME,2020,186,Maine
+119,ME,2021,6,Maine
+120,MI,2016,2975,Michigan
+121,MI,2017,5204,Michigan
+122,MI,2018,5177,Michigan
+123,MI,2019,4886,Michigan
+124,MI,2020,6819,Michigan
+125,MI,2021,18782,Michigan
+126,MN,2016,2517,Minnesota
+127,MN,2017,3460,Minnesota
+128,MN,2018,2253,Minnesota
+129,MN,2019,11311,Minnesota
+130,MN,2020,26480,Minnesota
+131,MN,2021,51164,Minnesota
+132,MO,2016,2756,Missouri
+133,MO,2017,4026,Missouri
+134,MO,2018,2941,Missouri
+135,MO,2019,1677,Missouri
+136,MO,2020,4097,Missouri
+137,MO,2021,14136,Missouri
+138,MS,2016,393,Mississippi
+139,MS,2017,320,Mississippi
+140,MS,2018,434,Mississippi
+141,MS,2019,452,Mississippi
+142,MS,2020,913,Mississippi
+143,MS,2021,2808,Mississippi
+144,MT,2016,59,Montana
+145,MT,2017,127,Montana
+146,MT,2018,105,Montana
+147,MT,2019,153,Montana
+148,MT,2020,2193,Montana
+149,MT,2021,13327,Montana
+150,NC,2016,4276,North Carolina
+151,NC,2017,7387,North Carolina
+152,NC,2018,3952,North Carolina
+153,NC,2019,2545,North Carolina
+154,NC,2020,22683,North Carolina
+155,NC,2021,50519,North Carolina
+156,ND,2016,3,North Dakota
+157,ND,2018,15,North Dakota
+158,ND,2019,12,North Dakota
+159,ND,2020,365,North Dakota
+160,ND,2021,1863,North Dakota
+161,NE,2016,367,Nebraska
+162,NE,2017,293,Nebraska
+163,NE,2018,223,Nebraska
+164,NE,2019,388,Nebraska
+165,NE,2020,800,Nebraska
+166,NE,2021,1249,Nebraska
+167,NH,2016,250,New Hampshire
+168,NH,2017,1139,New Hampshire
+169,NH,2018,985,New Hampshire
+170,NH,2019,994,New Hampshire
+171,NH,2020,420,New Hampshire
+172,NH,2021,78,New Hampshire
+173,NJ,2016,3961,New Jersey
+174,NJ,2017,4252,New Jersey
+175,NJ,2018,3882,New Jersey
+176,NJ,2019,3682,New Jersey
+177,NJ,2020,11123,New Jersey
+178,NJ,2021,26002,New Jersey
+179,NM,2016,151,New Mexico
+180,NM,2017,274,New Mexico
+181,NM,2018,211,New Mexico
+182,NM,2019,228,New Mexico
+183,NM,2020,505,New Mexico
+184,NM,2021,1001,New Mexico
+185,NV,2016,1239,Nevada
+186,NV,2017,1068,Nevada
+187,NV,2018,310,Nevada
+188,NV,2019,268,Nevada
+189,NV,2020,458,Nevada
+190,NV,2021,2854,Nevada
+191,NY,2016,6823,New York
+192,NY,2017,7717,New York
+193,NY,2018,6505,New York
+194,NY,2019,6752,New York
+195,NY,2020,24048,New York
+196,NY,2021,56204,New York
+197,OH,2016,3801,Ohio
+198,OH,2017,4675,Ohio
+199,OH,2018,4981,Ohio
+200,OH,2019,977,Ohio
+201,OH,2020,6682,Ohio
+202,OH,2021,3293,Ohio
+203,OK,2016,519,Oklahoma
+204,OK,2017,840,Oklahoma
+205,OK,2018,469,Oklahoma
+206,OK,2019,149,Oklahoma
+207,OK,2020,3481,Oklahoma
+208,OK,2021,3348,Oklahoma
+209,OR,2016,921,Oregon
+210,OR,2017,1397,Oregon
+211,OR,2018,15358,Oregon
+212,OR,2019,34819,Oregon
+213,OR,2020,28488,Oregon
+214,OR,2021,45358,Oregon
+215,PA,2016,3404,Pennsylvania
+216,PA,2017,3780,Pennsylvania
+217,PA,2018,2087,Pennsylvania
+218,PA,2019,1647,Pennsylvania
+219,PA,2020,24107,Pennsylvania
+220,PA,2021,64950,Pennsylvania
+221,RI,2016,635,Rhode Island
+222,RI,2017,785,Rhode Island
+223,RI,2018,772,Rhode Island
+224,RI,2019,758,Rhode Island
+225,RI,2020,649,Rhode Island
+226,RI,2021,852,Rhode Island
+227,SC,2016,998,South Carolina
+228,SC,2017,1797,South Carolina
+229,SC,2018,1558,South Carolina
+230,SC,2019,1200,South Carolina
+231,SC,2020,16850,South Carolina
+232,SC,2021,66813,South Carolina
+233,SD,2016,6,South Dakota
+234,SD,2017,11,South Dakota
+235,SD,2018,9,South Dakota
+236,SD,2019,26,South Dakota
+237,SD,2020,127,South Dakota
+238,SD,2021,22,South Dakota
+239,TN,2016,1618,Tennessee
+240,TN,2017,2535,Tennessee
+241,TN,2018,2137,Tennessee
+242,TN,2019,1629,Tennessee
+243,TN,2020,10639,Tennessee
+244,TN,2021,34055,Tennessee
+245,TX,2016,9288,Texas
+246,TX,2017,12833,Texas
+247,TX,2018,10085,Texas
+248,TX,2019,6653,Texas
+249,TX,2020,26573,Texas
+250,TX,2021,83605,Texas
+251,UT,2016,941,Utah
+252,UT,2017,1756,Utah
+253,UT,2018,4093,Utah
+254,UT,2019,15435,Utah
+255,UT,2020,9285,Utah
+256,UT,2021,17683,Utah
+257,VA,2016,2611,Virginia
+258,VA,2017,4488,Virginia
+259,VA,2018,5330,Virginia
+260,VA,2019,4181,Virginia
+261,VA,2020,24985,Virginia
+262,VA,2021,71940,Virginia
+263,VT,2016,17,Vermont
+264,VT,2017,83,Vermont
+265,VT,2018,57,Vermont
+266,VT,2019,123,Vermont
+267,VT,2020,69,Vermont
+268,VT,2021,16,Vermont
+269,WA,2016,2861,Washington
+270,WA,2017,4762,Washington
+271,WA,2018,4484,Washington
+272,WA,2019,4293,Washington
+273,WA,2020,5279,Washington
+274,WA,2021,10875,Washington
+275,WI,2016,1489,Wisconsin
+276,WI,2017,2293,Wisconsin
+277,WI,2018,1535,Wisconsin
+278,WI,2019,1421,Wisconsin
+279,WI,2020,971,Wisconsin
+280,WI,2021,187,Wisconsin
+281,WV,2016,398,West Virginia
+282,WV,2017,604,West Virginia
+283,WV,2018,533,West Virginia
+284,WV,2019,419,West Virginia
+285,WV,2020,902,West Virginia
+286,WV,2021,4776,West Virginia
+287,WY,2016,69,Wyoming
+288,WY,2017,88,Wyoming
+289,WY,2018,77,Wyoming
+290,WY,2019,79,Wyoming
+291,WY,2020,10,Wyoming
+292,WY,2021,667,Wyoming

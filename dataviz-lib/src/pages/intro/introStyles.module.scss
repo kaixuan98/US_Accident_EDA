@@ -1,0 +1,24 @@
+.fullPage{
+    height: 100vh;
+}
+.content{
+    display: flex; 
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    height: 80%;
+
+    .btn{
+        a{
+            text-decoration: none;
+        }
+    }
+}
+
+.footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+

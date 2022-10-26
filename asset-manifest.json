@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/US_Accident_EDA/static/css/main.190ddfca.css",
-    "main.js": "/US_Accident_EDA/static/js/main.b916e634.js",
+    "main.js": "/US_Accident_EDA/static/js/main.7eb7c204.js",
     "static/js/787.c390e5f4.chunk.js": "/US_Accident_EDA/static/js/787.c390e5f4.chunk.js",
     "static/media/states_year_count_long.csv": "/US_Accident_EDA/static/media/states_year_count_long.e6dc382a61622466d31c.csv",
     "static/media/accident_counts.csv": "/US_Accident_EDA/static/media/accident_counts.f37b0def1e00c3f82c8e.csv",
@@ -13,11 +13,11 @@
     "static/media/yearly_accident.csv": "/US_Accident_EDA/static/media/yearly_accident.676627187311cc33a508.csv",
     "static/media/weekly_accident.csv": "/US_Accident_EDA/static/media/weekly_accident.f55766ba11f710275d74.csv",
     "main.190ddfca.css.map": "/US_Accident_EDA/static/css/main.190ddfca.css.map",
-    "main.b916e634.js.map": "/US_Accident_EDA/static/js/main.b916e634.js.map",
+    "main.7eb7c204.js.map": "/US_Accident_EDA/static/js/main.7eb7c204.js.map",
     "787.c390e5f4.chunk.js.map": "/US_Accident_EDA/static/js/787.c390e5f4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.190ddfca.css",
-    "static/js/main.b916e634.js"
+    "static/js/main.7eb7c204.js"
   ]
 }

@@ -38,7 +38,7 @@ function App() {
   return (
     <div className="App" style={{position: 'relative'}}>
       <AnimatePresence>
-        <Routes basename={'/US_Accident_EDA'} location={loc} key={loc.pathname}>
+        <Routes basename={'/US_Accident_EDA/dataviz-lib'} location={loc} key={loc.pathname}>
           <Route path='/' element={<Intro pageVariants={pageVariants} pageTransition={pageTransition}/>}></Route>
           <Route path='/question1' element={<Question1 pageVariants={pageVariants} pageTransition={pageTransition}/>}></Route>
           <Route path='/question2' element={<Question2 pageVariants={pageVariants} pageTransition={pageTransition}/>}></Route>

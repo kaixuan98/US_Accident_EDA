@@ -17,7 +17,7 @@ const NavBar = ({currentPage, nextPageLink, prevPageLink}) => {
             <div className={style.navContainer}>
                 <div className={style.pageCountContainer}>
                         <Link to={`/${prevPageLink}`}><span className={style.leftArrow}><MdKeyboardArrowLeft size={32}/></span></Link>
-                        <p><span className={style.pages}> {currentPage} of 10 </span></p>
+                        <p><span className={style.pages}> {currentPage} of 7 </span></p>
                         <Link to={`/${nextPageLink}`}><span className={style.rightArrow}><MdKeyboardArrowRight size={32}/></span></Link>
                 </div>
             </div>
